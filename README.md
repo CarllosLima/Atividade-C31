@@ -3,7 +3,6 @@
 ## ESCOLA DO FUTURO DE GOIÁS - PAULO RENATO DE SOUZA
  
 ### Técnico em Desenvolvimento Web e Mobile
- 
 ---
  
 ## 👨‍🎓 Identificação do Estudante
