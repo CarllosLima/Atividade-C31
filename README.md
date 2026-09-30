@@ -9,11 +9,15 @@
 ## 👨‍🎓 Identificação do Estudante
  
 **Estudante:** Carlos Alberto de Oliveira Lima
+
  
 **Curso:** Técnico em Desenvolvimento Web e Mobile
+
  
 **Componente Curricular:** C31 - Prototipagem de Projetos em Desenvolvimento Web e Mobile
+
  
 **Professor:** Rodrigo Vilela
+
  
 **Data:** 29/09/2026
